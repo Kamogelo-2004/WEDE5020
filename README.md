@@ -7,4 +7,7 @@ A company website that is reponsive
 
 ## Built With 
 HTML-Structure
-CSS-Styling of 
+CSS-Styling of pages
+Javasript-functionality
+
+Has 5 webpages
