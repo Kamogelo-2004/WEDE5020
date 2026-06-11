@@ -1,0 +1,89 @@
+/* CSS Reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body{
+    font-family:  Arial, sans-serif;
+}
+
+/* Paragraphs */
+p{
+    font-size: 15pt;
+}
+
+/* HEADER (logo + nav stacked) */
+header{
+    background-color: white;
+    display: flex;
+    flex-direction: column;   /* puts nav under logo */
+    align-items: center;
+    padding: 20px;
+}
+
+/* NAVIGATION */
+.navigation{
+    display: flex;
+    list-style: none;
+    gap: 25px;
+    margin-top: 10px;
+}
+
+.navigation a{
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px 12px;
+    color: black;
+    transition: 0.3s;
+}
+
+/* FIXED hover */
+.navigation a:hover{
+    background-color: rgb(83, 152, 212);
+    color: white;
+    border-radius: 5px;
+}
+
+/* IMAGES */
+img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+
+/* CONTAINER */
+.container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    padding: 20px;
+}
+
+.container div{
+    background-color: rgb(100, 163, 218);
+    padding: 15px;
+    border-radius: 15px;
+}
+
+/* FOOTER */
+footer{
+    background-color: rgb(8, 62, 109);
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+/* RESPONSIVE DESIGN */
+@media screen and (max-width: 768px){
+    .container{
+        grid-template-columns: 1fr; /* stack content */
+    }
+
+    .navigation{
+        flex-direction: column; /* nav becomes vertical */
+        align-items: center;
+    }
+}

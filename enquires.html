@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Kings Delight - Enquiries</title>
+
+     <!--CSS-->
+    <link rel="stylesheet" href="css_assets/enquires.css">
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+        }
+
+        header{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 20px;
+        }
+
+        nav ul{
+            list-style: none;
+            display: flex;
+            gap: 20px;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        nav a{
+            text-decoration: none;
+            color: black;
+            font-weight: bold;
+        }
+
+        nav a:hover{
+            color: rgb(0, 183, 255);
+        }
+
+        h2{
+            color: rgb(0, 183, 255);
+        }
+
+        form{
+            max-width: 400px;
+            margin: 20px auto;
+        }
+
+        input, select, textarea{
+            width: 100%;
+            padding: 8px;
+            margin: 8px 0;
+        }
+
+        button{
+            background-color: rgb(0, 183, 255);
+            color: white;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+        }
+
+        button:hover{
+            background-color: rgb(0, 140, 200);
+        }
+
+        footer{
+            background-color: rgb(8, 62, 109);
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <img src="images/kings delights (2).png" alt="Logo" width="200">
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about_us.html">About</a></li>
+            <li><a href="product.html">Services</a></li>
+            <li><a href="enquires.html">Enquiries</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <h2 style="text-align:center;">Enquiry Form</h2>
+
+    <!-- FORM START -->
+    <form action="#" method="post">
+
+        <label>Full Name</label>
+        <input type="text" name="fullname" required>
+
+        <label>Email</label>
+        <input type="email" name="email" required>
+
+        <label>Interested in</label>
+        <select name="interest" required>
+            <option value="">Select an option</option>
+            <option>Custom Cake Orders</option>
+            <option>Pre-orders for Pickup</option>
+            <option>Local Delivery</option>
+            <option>Inspiration Cakes</option>
+        </select>
+
+        <label>Message</label>
+        <textarea name="message" rows="5" required></textarea>
+
+        <button type="submit">Submit Enquiry</button>
+
+    </form>
+    <!-- FORM END -->
+
+</main>
+
+<footer>
+    <p>Kings Delight &copy; 2026</p>
+</footer>
+
+</body>
+</html>
