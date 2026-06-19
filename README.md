@@ -36,6 +36,13 @@ WEEK 4&5(06-13 June 2026) financial and operational planning and understanding t
 ## Reference list 
 Kings delights https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Fsengs_delights%3Figsh%3Dczh1dDFldm43MXBr&data=05%7C02%7CST10497749%40rcconnect.edu.za%7Cf72f6a0f166d4b8b2e0f08de956bae9c%7Ce10c8f44f469448fbc0dd781288ff01b%7C0%7C0%7C639112486921292021%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C60000%7C%7C%7C&sdata=51krKnyHpJu0uSVii2A3%2BXvFEpPGvG3iUw3%2FzqFzMG4%3D&reserved=0 (Assessed 26 March 2026) 
 https://unsplash.com/photos/a-wedding-cake-with-purple-flowers-on-top-of-it-bEMh491QvdE (Assessed 17 April 2026)
+https://unsplash.com/photos/white-and-red-cupcake-with-white-icing-on-top-MJPr6nOdppw (accessed 10 June 2026)
+red velet cupcake
+https://unsplash.com/photos/pink-and-white-cake-on-white-ceramic-plate-QNyRp21hb5I (accessed 10 June 2026)
+birthday ice cream cake
+https://unsplash.com/photos/chocolate-cupcake-with-white-icing-on-white-ceramic-plate-90HdOlGbjck (accessed 10 June 2026)
+death by chocolate cupcake
+https://unsplash.com/photos/three-tier-cake-with-pink-fresh-flowers-on-table-beside-two-champagne-flute-glasses-53nLF9woXE0 (accessed 10 June 2026) weddng cake with pink flowers
 
 ## Part 2-CSS
 The CSS used in the Kings Delights website improves both the appearance and usability of the site. It ensures a consistent layout by removing default browser styles and uses Flexbox and Grid to organise content neatly. The navigation is styled and centered for easy access, with hover and active effects to enhance user interaction. Images are made responsive, and forms are designed to be clear and user-friendly. Additional styling such as colours, typography, and buttons helps create a clean and professional look. Overall, the CSS makes the website visually appealing, responsive, and easy to use.
