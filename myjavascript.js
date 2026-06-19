@@ -86,3 +86,53 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
+
+
+// ACTIVE NAVIGATION
+constnavLinks=document.querySelectorAll(".navigation a");
+
+navLinks.forEach(link => {
+    link.addEventListener("click", function() {
+        navLinks.forEach(l => l.classList.remove("active"));
+        this.classList.add("active");
+    });
+});
+
+// SCROLL ANIMATION
+const section=document.querySelectorAll(".section");
+
+function revealSections(){
+    const trigger = window.innerHeight * 0.85;
+
+    sections.forEach(sec => {
+        const top = sec.getBoundingClientRect().top;
+
+        if(top < trigger){
+            sec.style.opacity = "1";
+            sec.style.transform = "translateY(0)";
+        }
+    });
+}
+
+window.addEventListener("scroll", revealSections);
+window.addEventListener("load", revealSections);
+
+// TEAM INTERACTION (click highlight)
+const teamMembers = document.querySelectorAll("#teamList li");
+
+teamMembers.forEach(member => {
+    member.addEventListener("click", () => {
+        member.style.color = "skyblue";
+        member.style.fontWeight = "bold";
+    });
+});
+
+// SMOOTH SCROLL (future use)
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener("click", function(e) {
+        e.preventDefault();
+        document.querySelector(this.getAttribute("href"))?.scrollIntoView({
+            behavior: "smooth"
+        });
+    });
+});
