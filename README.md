@@ -49,11 +49,9 @@ The CSS used in the Kings Delights website improves both the appearance and usab
 
 <img width="400" height="809" alt="Screenshot 1" src="https://github.com/user-attachments/assets/e3a09250-6af2-40bd-902c-6c1a4d480f5f" /> <img width="700" height="809" alt="Screenshot 2" src="https://github.com/user-attachments/assets/cd7ecc20-be86-4bb1-8270-33b38e72f707" /> <img width="1271" height="813" alt="Screenshot 3" src="https://github.com/user-attachments/assets/249bda5d-2440-48f4-ad4c-9c5281eb1ddc" />
 
-
-
-
 ## Part 3-JavaScript
 The JavaScript added to the Kings Delights website improves interactivity and user experience. It is used to highlight the active navigation link, making it easier for users to see which page they are on. Scroll animations are implemented to smoothly reveal sections as the user moves down the page, creating a modern and engaging feel. Interactive features such as clicking on team members to highlight them and smooth scrolling for navigation links enhance usability. Additionally, JavaScript is used to support dynamic features like video modals, cart functionalit.
 
 ## Reference
 OpenAI, 2026, Available at:(https://chatgpt.com/c/6a343193-072c-83ea-9cad-b8600c56e6d6)[Accessed 15 June 2026]
+https://www.bing.com/ck/a?!&&p=042ab636ffea4df057a39488106ab898b1db2b8f2004c1f0db5c3a997253cca0JmltdHM9MTc4MTgyNzIwMA&ptn=3&ver=2&hsh=4&fclid=31d497b7-07a0-69bb-2dab-808d06b5689a&psq=mobile+simulator+extension&u=a1aHR0cHM6Ly9jaHJvbWV3ZWJzdG9yZS5nb29nbGUuY29tL2RldGFpbC9tb2JpbGUtc2ltdWxhdG9yLXJlc3BvbnNpL2NrZWptaGJtbGFqZ29rbGhnYmFwa2ljY2VrZm9jY21r [Accessed 15 June 2026]
