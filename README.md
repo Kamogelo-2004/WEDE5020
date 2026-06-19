@@ -3,7 +3,8 @@ Web Development Project
 ## Project title
 kings delights bakery
 ###
-A company website that is reponsive
+## Student Information
+ST10497749 Kamogelo Nonyane GR3
 
 ## Built With 
 HTML-Structure
