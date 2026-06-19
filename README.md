@@ -47,7 +47,8 @@ https://unsplash.com/photos/three-tier-cake-with-pink-fresh-flowers-on-table-bes
 ## Part 2-CSS
 The CSS used in the Kings Delights website improves both the appearance and usability of the site. It ensures a consistent layout by removing default browser styles and uses Flexbox and Grid to organise content neatly. The navigation is styled and centered for easy access, with hover and active effects to enhance user interaction. Images are made responsive, and forms are designed to be clear and user-friendly. Additional styling such as colours, typography, and buttons helps create a clean and professional look. Overall, the CSS makes the website visually appealing, responsive, and easy to use.I used media queries to apply to different screens sizes when opening or visiting my website 
 
-<img width="400" height="809" alt="Screenshot 1" src="https://github.com/user-attachments/assets/e3a09250-6af2-40bd-902c-6c1a4d480f5f" /><img width="700" height="809" alt="Screenshot 2" src="https://github.com/user-attachments/assets/cd7ecc20-be86-4bb1-8270-33b38e72f707" />
+<img width="400" height="809" alt="Screenshot 1" src="https://github.com/user-attachments/assets/e3a09250-6af2-40bd-902c-6c1a4d480f5f" /> <img width="700" height="809" alt="Screenshot 2" src="https://github.com/user-attachments/assets/cd7ecc20-be86-4bb1-8270-33b38e72f707" /> <img width="1271" height="813" alt="Screenshot 3" src="https://github.com/user-attachments/assets/249bda5d-2440-48f4-ad4c-9c5281eb1ddc" />
+
 
 
 
