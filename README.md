@@ -45,10 +45,9 @@ death by chocolate cupcake
 https://unsplash.com/photos/three-tier-cake-with-pink-fresh-flowers-on-table-beside-two-champagne-flute-glasses-53nLF9woXE0 (accessed 10 June 2026) weddng cake with pink flowers
 
 ## Part 2-CSS
-The CSS used in the Kings Delights website improves both the appearance and usability of the site. It ensures a consistent layout by removing default browser styles and uses Flexbox and Grid to organise content neatly. The navigation is styled and centered for easy access, with hover and active effects to enhance user interaction. Images are made responsive, and forms are designed to be clear and user-friendly. Additional styling such as colours, typography, and buttons helps create a clean and professional look. Overall, the CSS makes the website visually appealing, responsive, and easy to use.
-I used media queries to apply to different screens sizes when opening or visiting my website 
+The CSS used in the Kings Delights website improves both the appearance and usability of the site. It ensures a consistent layout by removing default browser styles and uses Flexbox and Grid to organise content neatly. The navigation is styled and centered for easy access, with hover and active effects to enhance user interaction. Images are made responsive, and forms are designed to be clear and user-friendly. Additional styling such as colours, typography, and buttons helps create a clean and professional look. Overall, the CSS makes the website visually appealing, responsive, and easy to use.I used media queries to apply to different screens sizes when opening or visiting my website 
 
-<img width="300" height="807" alt="Screenshot 1" src="https://github.com/user-attachments/assets/e3a09250-6af2-40bd-902c-6c1a4d480f5f" />
+<img width="150" height="807" alt="Screenshot 1" src="https://github.com/user-attachments/assets/e3a09250-6af2-40bd-902c-6c1a4d480f5f" />
 
 
 ## Part 3-JavaScript
